@@ -1,0 +1,15 @@
+Training Set Evaluation:
+Confusion Matrix:
+[[224648.   1461.]
+ [   352.  23539.]]
+Accuracy: 0.992748
+Precision: 0.9852664183165208
+Recall: 0.94156
+
+Test Set Evaluation:
+Confusion Matrix:
+[[89636.  1042.]
+ [  364.  8958.]]
+Accuracy: 0.98594
+Precision: 0.9609525852821283
+Recall: 0.8958
